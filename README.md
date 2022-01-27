@@ -1,4 +1,6 @@
-### Hi there, I am Elvira Cherkasova 👋
+
+![banner (1)](https://user-images.githubusercontent.com/77780789/151368536-55323ea7-acda-4b32-877e-adbe3858aa0a.png)
+
 
 
 - 🔭 I’m currently working on learning React Documentation
